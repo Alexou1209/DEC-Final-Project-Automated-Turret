@@ -56,6 +56,6 @@ The software ecosystem balances low-latency hardware interaction with higher-lev
 ---
 
 ## Contributors & Credits
-* **Xavier Campoux** – Developed the Handheld Controller PCB and the automated tracking C++ firmware architecture for the BeagleBone Blue.
-* **Alexandre Dionne** – Developed the Main Turret PCB, the handheld controller MCU firmware, and the target-side firing control Arduino firmware.
+* [**Xavier Campoux**](https://github.com/Xavi0n) – Developed the Handheld Controller PCB and the automated tracking C++ firmware architecture for the BeagleBone Blue.
+* [**Alexandre Dionne**](https://github.com/Alexou1209) – Developed the Main Turret PCB, the handheld controller MCU firmware, and the target-side firing control Arduino firmware.
 * **3D Design Attribution:** The mechanical chassis structure is based on the [TIMMY! (REAL VALORANT KJ TURRET)](https://thangs.com/designer/dannylumcreative/3d-model/TIMMY%21%20%28REAL%20VALORANT%20KJ%20TURRET%29-1104727) open-source 3D model designed by **dannylumcreative**. We modified and adapted these 3D parts to integrate our custom electronics and automated pan-tilt functionality.
