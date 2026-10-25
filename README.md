@@ -10,8 +10,10 @@ This system was developed as the final capstone project for the Programmable Ele
 
 ### 1. Custom PCB Design (`/hardware`)
 <img src="docs/Photo_videos/Turret_PCB_Assembled.jpg" width="50%">
+
 * **Turret Control Board:** Designed a **4-layer PCB** integrating connections for high-torque servo motors, flywheel DC motors, power management blocks, RF modules, and a BeagleBone Blue system. It features an onboard current sensor to monitor live system power consumption.
 <img src="docs/Photo_videos/Controller_3D_Render.png" width="50%">
+
 * **Remote Controller Board:** Designed a dedicated manual controller board driven by an **ATmega328PB MCU**. Integrated an FTDI chip to allow direct MCU programming and debugging over a standard USB interface.
 
 
