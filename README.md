@@ -1,5 +1,7 @@
 ## Automated Target-Aiming Turret
 
+https://github.com/user-attachments/assets/4edb1a01-b221-450d-96cd-c2e2fe770a61
+
 This system was developed as the final capstone project for the Programmable Electronics Advanced Diploma (DEC) at Cégep Limoilou. The scope of the project required a complete hardware and software engineering design within a strict 13-week timeline.
 
 ---
