@@ -1,0 +1,10 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [PCB_Moteurs.PcbDoc]
+   Generated File[Projet_Guimbarde.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:11:32 On 24/04/2025
