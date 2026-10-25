@@ -1,5 +1,5 @@
 ## Automated Target-Aiming Turret
-<video src="docs/Photo_Videos/Turret_aiming_demo.mp4" width="100%" autoplay loop muted></video>
+<video src="docs/Photo_videos/Turret_aimaing_demo.mp4" width="100%" autoplay loop muted></video>
 This system was developed as the final capstone project for the Programmable Electronics Advanced Diploma (DEC) at Cégep Limoilou. The scope of the project required a complete hardware and software engineering design within a strict 13-week timeline.
 
 ---
@@ -7,7 +7,7 @@ This system was developed as the final capstone project for the Programmable Ele
 ## Hardware Engineering
 
 ### 1. Custom PCB Design (`/hardware`)
-![Turret Custom 4-Layer PCB Layout](docs/Photo_videos/Turret_PCB_Assembled.png)
+![Turret Custom 4-Layer PCB Layout](docs/Photo_videos/Turret_PCB_Assembled.jpg)
 * **Turret Control Board:** Designed a **4-layer PCB** integrating connections for high-torque servo motors, flywheel DC motors, power management blocks, RF modules, and a BeagleBone Blue system. It features an onboard current sensor to monitor live system power consumption.
 * **Remote Controller Board:** Designed a dedicated manual controller board driven by an **ATmega328PB MCU**. Integrated an FTDI chip to allow direct MCU programming and debugging over a standard USB interface.
 
